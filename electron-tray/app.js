@@ -4,7 +4,9 @@ const path = require('path')
 let window = null
 let tray = null
 
+//this line of code causes error
 app.dock.hide()
+
 
 // Wait until the app is ready
 app.once('ready', () => {
