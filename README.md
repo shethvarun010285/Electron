@@ -1,1 +1,1 @@
-# Electron
+# Electron is a web-based desktop application building tool.
